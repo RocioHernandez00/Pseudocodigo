@@ -1,1 +1,2 @@
-# Pseudocodigo
+# Problema logico 
+
