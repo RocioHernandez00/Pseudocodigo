@@ -1,8 +1,8 @@
 ### Formulario de Registro
 * Algoritmo FormularioDeRegistro
-	* Imprimir "Formulario de Registro"
-	* Imprimir "Nombre"
-	* leer Nombre 
+	Imprimir "Formulario de Registro"
+	Imprimir "Nombre"
+	leer Nombre 
 	Imprimir "Apellido"
 	Leer Apellido
 	Imprimir "Edad"
